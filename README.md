@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vmanoilov11
-- 👀 I’m interested in programming and software engineering.
-- 🌱 I’m currently learning JS, Python, Java
+- 👀 I’m interested in  Software Engineering.
+- 🌱 Java, JS
 - 📫 How to reach me vladislavmanoilov7@gmail.com
 
 
